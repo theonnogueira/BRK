@@ -28,9 +28,4 @@ Relação entre TB_USUARIO e TB_AUTOMOVEL 1 para N
 
 Testes feitos no POSTMAN (GET,POST,PUT,DELETE)
 
-*********FRONT-END*************
 
-Linguagem JavaScript
-Ferramentas utilizadas NODE, Framework ANGULAR
-
-Quando for baixar o projeto no github instalar o node_modules: npm install
